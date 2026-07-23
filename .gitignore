@@ -1,0 +1,5 @@
+.nextflow
+.venv
+.nextflow.log*
+work/*
+outdir/*
