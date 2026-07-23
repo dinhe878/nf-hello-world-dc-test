@@ -1,9 +1,9 @@
 #!/usr/bin/env nextflow
 
 /*
- * Pipeline parameters
+ * Pipeline parameters, for local test
  */
-params.input_file = "data/greetings.csv"
+// params.input_file = "data/greetings.csv"
 
 /*
  * Use echo to print 'Hello World!' to standard out
