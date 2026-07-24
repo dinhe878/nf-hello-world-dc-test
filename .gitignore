@@ -2,4 +2,4 @@
 .venv
 .nextflow.log*
 work/*
-outdir/*
+results/*
